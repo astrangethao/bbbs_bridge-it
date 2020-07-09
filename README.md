@@ -10,7 +10,7 @@ Big Brothers Big Sisters plays an important role in pairing Bigs and Littles. Cu
 
 Bridge-iT generates a pinned location on a map once the Big or Little information has been loaded. You can reduce the number of pins by selecting preferences or radius. Once the pins have been narrowed, you can select on the toggle button to have a side by side view of the Big and Little profiles. This allows you to easily compare the two profiles and see if the two would be a good match.
 
-To see the fully functional site, please visit: DEPLOYED VERSION OF THE APP https://bbbs-bridgeit.herokuapp.com/#/logingit
+To see the fully functional site, please visit: DEPLOYED VERSION OF THE APP https://bbbs-bridgeit.herokuapp.com/
 
 ## Screen Shots
 
